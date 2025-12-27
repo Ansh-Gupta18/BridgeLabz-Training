@@ -12,6 +12,11 @@ public class Circle {
 	public void circumferenceCircle() {
 		System.out.printf("\nCircumference of circle: %.4f",(2*Math.PI*radius));
 	}
-	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Circle circle = new Circle(2.5);
+		circle.areaCircle();
+		circle.circumferenceCircle();
+		}
 
 }
