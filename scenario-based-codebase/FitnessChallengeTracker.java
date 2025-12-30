@@ -25,7 +25,7 @@ public class FitnessChallengeTracker{
 		// Display the menu for fiteness
 		System.out.println("Enter 1 for fitness day");
 		System.out.println("Enter 2 for skip day");
-		System.out.println("Enter 3 for exiting from the day");
+		System.out.println("Enter 3 for exiting from  fitness challenge");
 		System.out.print("Enter your choice : ");
 		
 		choice = sc.nextInt();
