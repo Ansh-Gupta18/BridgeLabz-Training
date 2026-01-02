@@ -1,0 +1,16 @@
+package com.objectmodelling.universitywithfacultiesanddepartments;
+
+//Created a main class that establish relationship among university, department and faculty
+public class UniversityMain {
+  public static void main(String[] args) {
+
+  	//Created a object of university and Faculty class
+      University university = new University();
+      Faculty faculty = new Faculty("Dr. Kumar");
+
+      //Calling  method to add department
+      university.addDepartment(new Department("Computer Science"));
+      university.closeUniversity();
+      
+  }
+}
