@@ -1,0 +1,7 @@
+package com.oopsScenarioBased.vehicletransport;
+
+
+//Interface to hide payment calculation logic
+public interface Rentable {
+	double calculateRent(int days, int surcharge);
+}
