@@ -8,7 +8,7 @@ private MovieNode tail;
 
 /* ================= ADD OPERATIONS ================= */
 
-// Add movie at beginning
+// Add movie at beginning 
 public void addAtBeginning(String title, String director, int year, double rating) {
    MovieNode newNode = new MovieNode(title, director, year, rating);
 
