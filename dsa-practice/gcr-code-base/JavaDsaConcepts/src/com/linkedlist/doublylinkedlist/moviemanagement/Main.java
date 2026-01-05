@@ -8,7 +8,7 @@ public static void main(String[] args) {
 
    MovieList movies = new MovieList();
    
-   //Adding movie at the end, beginning and at specific position
+   //Adding movie at the end, beginning and at specific position in this
    movies.addAtEnd("Inception", "Christopher Nolan", 2010, 8.8);
    movies.addAtBeginning("Interstellar", "Christopher Nolan", 2014, 8.6);
    movies.addAtEnd("Avatar", "James Cameron", 2009, 7.8);
