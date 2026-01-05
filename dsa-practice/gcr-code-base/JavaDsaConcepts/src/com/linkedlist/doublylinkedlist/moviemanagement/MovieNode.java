@@ -11,7 +11,7 @@ double rating;
 MovieNode prev;
 MovieNode next;
 
-// Constructor
+// Constructor for this
 public MovieNode(String title, String director, int year, double rating) {
    this.title = title;
    this.director = director;
