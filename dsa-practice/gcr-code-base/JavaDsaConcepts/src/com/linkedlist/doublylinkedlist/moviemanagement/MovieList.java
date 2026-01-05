@@ -22,7 +22,7 @@ public void addAtBeginning(String title, String director, int year, double ratin
    head = newNode;
 }
 
-// Add movie at end
+// Add movie at end of this
 public void addAtEnd(String title, String director, int year, double rating) {
    MovieNode newNode = new MovieNode(title, director, year, rating);
 
