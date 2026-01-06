@@ -78,3 +78,18 @@ Basic array-based logic
 Strengthened logical thinking using array problems.
 Committed and pushed solutions to the repository.
 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+ Day 6 – Strings & Methods
+
+
+Studied String concepts:
+String creation
+String methods
+Character processing
+Implemented programs for string manipulation.
+Studied Java methods:
+Method declaration
+Method calling
+Parameter passing
+Practiced reusable logic using methods.
+Committed and pushed solutions to the repository.
+🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string
