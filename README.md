@@ -213,3 +213,15 @@ Bank Account System Encapsulated account details such as balance and account num
 Designing classes based on real-world entities. Writing reusable and extensible code. Clean separation of responsibilities using OOP principles. Improving logical thinking and problem-solving skills. Tested all scenarios thoroughly and pushed implementations to the GitHub repository.
 
 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oopsScenarioBased/src/com/oopsScenarioBased 👉 Week 2 Day 7 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)
+
+Week 3 Day 01 – Data Structures Overview & Linked Lists
+
+📘 Topics Covered Understood the fundamentals of Data Structures:
+
+Learned how data structures organize and store data efficiently. Explored their role in optimizing operations like searching, sorting, and updating. Studied common examples such as Arrays, Stacks, Queues, Linked Lists, Trees, and Graphs. Identified Linked Lists as a key structure for dynamic memory management. Explored Key Features of Data Structures in Java:
+
+Predefined and Custom Implementations: Used Java Collections Framework (Lists, Maps, Sets). Designed custom data structures using classes and objects. Dynamic Memory Allocation: Learned how structures like Lists and Maps grow and shrink dynamically. Generics Support: Ensured type safety and reduced runtime errors. Thread-Safe Options: Studied concurrent collections such as ConcurrentHashMap and CopyOnWriteArrayList. Studied Types of Data Structures in Java:
+
+Linear Data Structures: Array (fixed-size, contiguous memory). Linked List (dynamic node-based structure). Stack (LIFO). Queue (FIFO). Hierarchical Data Structures: Tree, Binary Tree, Binary Search Tree (BST). Heap for priority-based operations. Graph Data Structures: Directed and undirected graphs representing relationships. Hash-Based Data Structures: HashMap for 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linkedlist 👉 Week 3 Day 01 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)
+
+
