@@ -134,3 +134,17 @@ Instance variables belong to individual objects. Static variables are shared acr
 Gained hands-on experience with access modifiers:
 
 public protected private Understood how access levels affect visibility across classes and subclasses. 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1 👉 Week 2 Day 2 – Constructor & Access Modifiers
+
+Week 2 Day 3 – Keywords & Scenario-Based Programming
+
+📘 Topics Covered Learned and implemented important Java keywords:
+
+this – to refer to current class instance variables and methods. static – to define class-level variables and methods. final – to restrict modification of variables, methods, and classes. Understood differences between:
+
+this vs static Instance members vs static members Final variables vs non-final variables Solved scenario-based problems to strengthen real-world understanding:
+
+Parking Lot Management System Phone Recharge Simulation Number Guessing Game Discount Calculation System Focused on:
+
+Logical flow building Conditional statements (if-else, switch) Looping constructs Clean and readable code structure Improved debugging skills and code readability.
+
+🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inbuiltfunction 👉 Week 2 Day 3 – Keywords & Scenario-Based Programs
