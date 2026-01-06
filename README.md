@@ -148,3 +148,20 @@ Parking Lot Management System Phone Recharge Simulation Number Guessing Game Dis
 Logical flow building Conditional statements (if-else, switch) Looping constructs Clean and readable code structure Improved debugging skills and code readability.
 
 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inbuiltfunction 👉 Week 2 Day 3 – Keywords & Scenario-Based Programs
+
+
+Week 2 Day 4 – Scenario-Based Design & Object Modeling
+
+📘 Topics Covered Practiced real-world scenario-based problem solving using Object-Oriented Programming concepts.
+
+Learned how to identify entities, attributes, and relationships from problem statements.
+
+Designed and implemented object models before writing code.
+
+Understood and applied different types of relationships:
+
+Association – objects related but independent Aggregation – “has-a” relationship with independent lifecycles Composition – strong ownership and dependency Key Concepts Applied
+
+Breaking real-world problems into: Classes Objects Responsibilities Mapping real-life scenarios into:
+
+Class diagrams (conceptual understanding) Logical method responsibilities 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/objectmodelling 👉 Week 2 Day 4 - Object Modeling and Scenario-Based Question
