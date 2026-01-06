@@ -182,3 +182,20 @@ Constructors are not inherited. Private members are not directly accessible in c
 Person → Waiter → Chef hierarchy Vehicle → Electrical Vehicle Student → Teacher → Staff Focused on:
 
 Clean class hierarchy design Avoiding tight coupling Writing reusable and maintainable code 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inheritance 👉 Week 2 Day 5 – Inheritance & Types of Inheritance
+
+
+ Week 2 Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism
+
+📘 Topics Covered Learned and implemented Encapsulation:
+
+Used private variables to protect data. Applied getters and setters to provide controlled access. Understood Polymorphism concepts:
+
+Method overloading (compile-time polymorphism). Method overriding (runtime polymorphism). Achieved flexible and reusable code using dynamic method dispatch. Studied Interfaces:
+
+Used to achieve multiple inheritance in Java. Enforced method contracts across implementing classes. Learned Abstract Classes:
+
+Used for abstraction by defining abstract and non-abstract methods. Enabled partial implementation and code reuse. Implemented practical programs focusing on:
+
+Object-oriented design principles. Real-world modeling using OOP concepts. Clean and maintainable code structure. Pushed all implementations to the GitHub repository.
+
+🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/encapsulation 👉 Week 2 Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism
