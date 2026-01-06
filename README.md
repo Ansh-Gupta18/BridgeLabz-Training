@@ -93,3 +93,16 @@ Parameter passing
 Practiced reusable logic using methods.
 Committed and pushed solutions to the repository.
 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string
+
+Day 7 – Built-in Functions & Extra Practice
+
+
+Practiced Java built-in functions.
+Implemented utility programs such as:
+Temperature Converter
+Improved understanding of:
+Input handling
+Type conversion
+Organized programs into proper folders.
+Committed and pushed all changes successfully.
+🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
