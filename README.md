@@ -224,4 +224,16 @@ Predefined and Custom Implementations: Used Java Collections Framework (Lists, M
 
 Linear Data Structures: Array (fixed-size, contiguous memory). Linked List (dynamic node-based structure). Stack (LIFO). Queue (FIFO). Hierarchical Data Structures: Tree, Binary Tree, Binary Search Tree (BST). Heap for priority-based operations. Graph Data Structures: Directed and undirected graphs representing relationships. Hash-Based Data Structures: HashMap for 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linkedlist 👉 Week 3 Day 01 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)
 
+Week 3 Day 02 – Stack, Queue & Hashing Fundamentals
 
+📘 Topics Covered Studied Stack Data Structure (LIFO):
+
+Understood core operations: push, pop, peek, isEmpty. Explored real-world use cases: Function call stack in recursion. Undo/Redo operations. Expression evaluation and parenthesis matching. Implemented Balanced Parentheses Checker using Stack: Validated proper nesting of (), {}, and []. Applied stack-based traversal and matching logic. Analyzed: Time Complexity: O(n) Space Complexity: O(n) Learned Queue Data Structure (FIFO):
+
+Understood key operations: offer, poll, peek, isEmpty. Explored Java Queue implementations: LinkedList PriorityQueue ArrayDeque Implemented Ticket Counter Management System: Enqueued customers as they arrived. Dequeued customers in order of service. Studied queue usage in: Task scheduling. BFS traversal. Request handling systems. Explored HashMap & Hashing Concepts:
+
+Understood key-value pair storage using HashMap. Learned core methods: put, get, remove, containsKey. Implemented word frequency counting using HashMap. Studied internal working of HashMap: Hashing and bucket indexing. Collision handling using separate chaining. Load factor (default: 0.75) and resizing. Compared: HashMap vs LinkedHashMap HashMap vs ConcurrentHashMap Learned Hashing Functions in Java:
+
+Understood hashCode() and its role in hash-based collections. Studied rules for overriding hashCode() and equals(). Implemented custom hashCode() for user-defined classes. Learned best practices to minimize collisions and ensure consistency. Focused on:
+
+Choosing the right data structure based on problem requirements. Understanding internal mechanics for interview readiness. Writing clean, efficient, and safe data-structure-based code. 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/stackandqueue https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/hashmap 👉 Week 3 Day 02 – Stack, Queue & HashMap Implementations
