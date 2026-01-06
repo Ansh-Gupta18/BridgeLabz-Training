@@ -106,3 +106,19 @@ Type conversion
 Organized programs into proper folders.
 Committed and pushed all changes successfully.
 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
+
+Week 2 Day 1 – Introduction to Object-Oriented Programming
+
+Studied Procedural Programming and its limitations.
+
+Compared Procedural Programming with Object-Oriented Programming.
+
+Understood why OOP is preferred in modern software development.
+
+Learned core OOP concepts:
+
+Class Object Encapsulation Abstraction Inheritance Polymorphism Implemented a sample program using procedural approach.
+
+Committed and pushed solutions to the repository.
+
+🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/classandobject 👉 Week 2 Day 1 – Introduction to OOP
