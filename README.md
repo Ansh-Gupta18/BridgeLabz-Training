@@ -165,3 +165,20 @@ Association – objects related but independent Aggregation – “has-a” rela
 Breaking real-world problems into: Classes Objects Responsibilities Mapping real-life scenarios into:
 
 Class diagrams (conceptual understanding) Logical method responsibilities 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/objectmodelling 👉 Week 2 Day 4 - Object Modeling and Scenario-Based Question
+
+
+Week 2 Day 5 – Inheritance & Types of Inheritance in Java
+
+📘 Topics Covered Learned the concept of Inheritance in Object-Oriented Programming:
+
+Reusing properties and behaviors of an existing class. Promoting code reusability and logical hierarchy. Understanding the extends keyword. Explored different types of inheritance supported in Java:
+
+Single Inheritance – One child class inherits from one parent class. Multilevel Inheritance – A class derived from another derived class. Hierarchical Inheritance – Multiple subclasses inherit from a single parent class. Multiple Inheritance (via Interfaces) – Achieved using interfaces since Java does not support multiple inheritance with classes. Hybrid Inheritance (conceptual) – Combination of multiple and multilevel inheritance using interfaces. Practiced usage of:
+
+super keyword to access parent class constructors and methods. Method overriding and runtime polymorphism. Accessing inherited members based on access modifiers. Understood important inheritance rules:
+
+Constructors are not inherited. Private members are not directly accessible in child classes. Method overriding requires same method signature. final methods cannot be overridden. Implemented real-world examples such as:
+
+Person → Waiter → Chef hierarchy Vehicle → Electrical Vehicle Student → Teacher → Staff Focused on:
+
+Clean class hierarchy design Avoiding tight coupling Writing reusable and maintainable code 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inheritance 👉 Week 2 Day 5 – Inheritance & Types of Inheritance
