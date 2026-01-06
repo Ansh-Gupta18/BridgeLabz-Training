@@ -237,3 +237,15 @@ Understood key-value pair storage using HashMap. Learned core methods: put, get,
 Understood hashCode() and its role in hash-based collections. Studied rules for overriding hashCode() and equals(). Implemented custom hashCode() for user-defined classes. Learned best practices to minimize collisions and ensure consistency. Focused on:
 
 Choosing the right data structure based on problem requirements. Understanding internal mechanics for interview readiness. Writing clean, efficient, and safe data-structure-based code. 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/stackandqueue https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/hashmap 👉 Week 3 Day 02 – Stack, Queue & HashMap Implementations
+
+ Week 3 Day 03 – Sorting Algorithms (Core & Advanced)
+
+📘 Topics Covered Studied the importance of Sorting Algorithms: Organizing data efficiently for faster searching, processing, and analysis. Compared algorithms based on time complexity, space usage, and stability. 🔹 Core Sorting Algorithms Bubble Sort
+
+Concept: Repeatedly swaps adjacent elements; largest element bubbles to the end. Time Complexity: Best: O(n) Average/Worst: O(n²) Space Complexity: O(1) Stable: Yes Use Case: Small or nearly sorted datasets. Insertion Sort
+
+Concept: Builds the sorted array incrementally by inserting elements in correct positions. Time Complexity: Best: O(n) Average/Worst: O(n²) Space Complexity: O(1) Stable: Yes Use Case: Small datasets, adaptive sorting, nearly sorted data. Merge Sort (Divide & Conquer)
+
+Concept: Recursively divides the array and merges sorted halves. Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use Case: Large datasets, linked lists, when stability is required. Quick Sort (Divide & Conquer)
+
+Concept: Partition-based sorting using a pivot element. Time Complexity: Best/Average: O(n log n) Worst: O(n²) (poor pivot selection) Space Complexity: O(log n) Stable: No Use Case: High-performance systems, large datasets with randomized pivot. 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sorting 👉 Week 3 Day 03 – Sorting Algorithms Implementations
