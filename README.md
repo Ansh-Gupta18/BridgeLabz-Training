@@ -122,3 +122,15 @@ Class Object Encapsulation Abstraction Inheritance Polymorphism Implemented a sa
 Committed and pushed solutions to the repository.
 
 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/classandobject 👉 Week 2 Day 1 – Introduction to OOP
+
+ Week 2 Day 2 – Constructors, Variables & Access Modifiers
+
+📘 Topics Covered Learned about constructors and their role in object initialization:
+
+Default constructors Parameterized constructors Constructor chaining using this() Copy constructors Explored instance variables vs class (static) variables:
+
+Instance variables belong to individual objects. Static variables are shared across all objects of a class. Practiced instance methods vs static methods and their use cases.
+
+Gained hands-on experience with access modifiers:
+
+public protected private Understood how access levels affect visibility across classes and subclasses. 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1 👉 Week 2 Day 2 – Constructor & Access Modifiers
