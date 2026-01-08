@@ -1,15 +1,17 @@
 package com.oopsScenarioBased.parkease;
 
-class Car extends Vehicle {
-
-    public Car(String vehicleNumber) {
-        super(vehicleNumber, 50);
+public class Car extends Vehicle {
+    public Car(String licensePlate) {
+        super(licensePlate, 20); // base rate for Car
     }
 
     @Override
-    public double calculateCharges(int hours) {
-        double penalty = hours > 5 ? 100 : 0;
-        return (baseRate * hours) + penalty;
+    public double calculateCharges(int hoursParked) {
+        double penalty = 0;
+        if (hoursParked > 5) {
+            penalty = 50;
+        }
+        return (baseRate * hoursParked) + penalty;
     }
 }
 
