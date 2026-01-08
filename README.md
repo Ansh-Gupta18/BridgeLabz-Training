@@ -69,7 +69,7 @@ BridgeLabz-Training/
 - 🔗 Code Link:]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
 
 ---
- ### Week 1Day 5 – Arrays & Basic Problem Solving
+ ### Week 1 Day 5 – Arrays & Basic Problem Solving
 
 
 - Studied arrays in Java:
@@ -153,7 +153,7 @@ BridgeLabz-Training/
 
 
 ---
-###Week 2 Day 3 – Keywords & Scenario-Based Programming
+### Week 2 Day 3 – Keywords & Scenario-Based Programming
 
 - 📘 Topics Covered Learned and implemented important Java keywords:
 
