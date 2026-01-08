@@ -31,7 +31,7 @@ BridgeLabz-Training/
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
-- 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
+ 🔗 Code Link: [Day - 2 - program prerequisite in java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
@@ -44,7 +44,7 @@ BridgeLabz-Training/
 - User input and output
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
-- 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+🔗 Code Link: [Day - 3 - Programming Elements in Java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 
 ---
@@ -66,7 +66,7 @@ BridgeLabz-Training/
   - Factorial
   - Prime number check
 - Committed and pushed solutions to the repository.
-- 🔗 Code Link:]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
+- 🔗 Code Link:[Day - 4 - Control flow](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
  ### Week 1 Day 5 – Arrays & Basic Problem Solving
@@ -81,7 +81,7 @@ BridgeLabz-Training/
 - Basic array-based logic
 - Strengthened logical thinking using array problems.
 - Committed and pushed solutions to the repository.
-- 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+- 🔗 Code Link: [ Day 5 – Arrays & Basic Problem Solving](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 
 ---
@@ -99,7 +99,7 @@ BridgeLabz-Training/
   - Parameter passing
 - Practiced reusable logic using methods.
 - Committed and pushed solutions to the repository.
-- 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string
+- 🔗 Code Link:[ Day 6 – Strings & Methods] (https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 
 ---
@@ -114,7 +114,7 @@ BridgeLabz-Training/
    - Type conversion
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
-- 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
+- 🔗 Code Link : [Day 7 – Built-in Functions & Extra Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
 
@@ -135,7 +135,7 @@ BridgeLabz-Training/
 
 - Committed and pushed solutions to the repository.
 
-- 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/classandobject 👉 Week 2 Day 1 – Introduction to OOP
+- 🔗 Code Link: [Day 1 – Introduction to Object-Oriented Programming](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/classandobject) 
 
 ---
 ### Week 2 Day 2 – Constructors, Variables & Access Modifiers
@@ -149,7 +149,7 @@ BridgeLabz-Training/
 - Gained hands-on experience with access modifiers:
   - public protected private Understood how access levels affect visibility across classes and subclasses.
   - 
-- 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1 👉 Week 2 Day 2 – Constructor & Access Modifiers
+- 🔗 Code Link: [ Day 2 – Constructors, Variables & Access Modifiers](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1)
 
 
 ---
@@ -165,7 +165,7 @@ BridgeLabz-Training/
 
 - Logical flow building Conditional statements (if-else, switch) Looping constructs Clean and readable code structure Improved debugging skills and code readability.
 
-- 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inbuiltfunction 👉 Week 2 Day 3 – Keywords & Scenario-Based Programs
+- 🔗 Code Link:[Day 3 – Keywords & Scenario-Based Programming](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inbuiltfunction)
 
 ---
 ### Week 2 Day 4 – Scenario-Based Design & Object Modeling
@@ -183,7 +183,7 @@ BridgeLabz-Training/
 - Breaking real-world problems into: Classes Objects Responsibilities Mapping real-life scenarios into:
 
 - Class diagrams (conceptual understanding) Logical method responsibilities.
--  🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/objectmodelling 👉 Week 2 Day 4 - Object Modeling and Scenario-Based Question
+-  🔗 Code Link:[Day 4 – Scenario-Based Design & Object Modeling](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
 ---
 
@@ -208,8 +208,9 @@ BridgeLabz-Training/
 - Person → Waiter → Chef hierarchy Vehicle → Electrical Vehicle Student → Teacher → Staff Focused on:
 
 - Clean class hierarchy design Avoiding tight coupling Writing reusable and maintainable code
--  🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inheritance 👉 Week 2 Day 5 – Inheritance & Types of Inheritance
+-  🔗 Code Link: [ Day 5 – Inheritance & Types of Inheritance in Java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inheritance)
 
+  
 ---
  ### Week 2 Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism
 
@@ -225,7 +226,7 @@ BridgeLabz-Training/
 
 - Object-oriented design principles. Real-world modeling using OOP concepts. Clean and maintainable code structure. Pushed all implementations to the GitHub repository.
 
-- 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/encapsulation 👉 Week 2 Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism
+- 🔗 Code Link: [ Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/encapsulation )
 
 ---
  ### Week 2 Day 7 – Scenario-Based Programming using OOP Concepts
@@ -240,7 +241,7 @@ BridgeLabz-Training/
 
 - Designing classes based on real-world entities. Writing reusable and extensible code. Clean separation of responsibilities using OOP principles. Improving logical thinking and problem-solving skills. Tested all scenarios thoroughly and pushed implementations to the GitHub repository.
 
-- 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oopsScenarioBased/src/com/oopsScenarioBased 👉 Week 2 Day 7 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)
+- 🔗 Code Link:[ Day 7 – Scenario-Based Programming using OOP Concepts](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oopsScenarioBased/src/com/oopsScenarioBased)
 
 ---
 
@@ -268,7 +269,7 @@ BridgeLabz-Training/
 - Heap for priority-based operations.
 - Graph Data Structures: Directed and undirected graphs representing relationships.
 - Hash-Based Data Structures
-- 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linkedlist 👉 Week 3 Day 01 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)
+- 🔗 Code Link:[Day 01 – Data Structures Overview & Linked Lists](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linkedlist)
 
 ---
 ### Week 3 Day 02 – Stack, Queue & Hashing Fundamentals
@@ -303,8 +304,8 @@ BridgeLabz-Training/
 - Choosing the right data structure based on problem requirements.
 - Understanding internal mechanics for interview readiness.
 -  Writing clean, efficient, and safe data-structure-based code.
--  🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/stackandqueue
--   🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/hashmap 
+-  🔗 Code Link: [Day 02 – Stack, Queue ](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/stackandqueue)
+- 🔗 Code Link:[Day 02 –  Hashing Fundamentals](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/hashmap)
 
 ---
 ### Week 3 Day 03 – Sorting Algorithms (Core & Advanced)
@@ -322,7 +323,7 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 - Concept: Partition-based sorting using a pivot element.
 -  Time Complexity: Best/Average: O(n log n) Worst: O(n²) (poor pivot selection) Space Complexity: O(log n) Stable: No Use Case: High-performance systems, large datasets with randomized pivot.
--  🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sorting 👉 Week 3 Day 03 – Sorting Algorithms Implementation
+-  🔗 Code Link:[Day 03 – Sorting Algorithms (Core & Advanced)](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sorting) 
 
 ### Week 3 day 4 This document covers essential Java classes for string handling, file reading, and basic searching algorithms. 
 - These are fundamental for efficient Java programming and data processing.
@@ -347,5 +348,5 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 - Binary Search
   - Efficient searching algorithm for sorted arrays.
   - Divides the search space in half repeatedly (O(log n) time complexity).
-- 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch
+- 🔗 Code Link: [day 4 This document covers essential Java classes for string handling, file reading, and basic searching algorithms. ](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
 
