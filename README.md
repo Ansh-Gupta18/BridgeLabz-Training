@@ -31,7 +31,7 @@ BridgeLabz-Training/
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
- 🔗 Code Link: [Day - 2 - program prerequisite in java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+ - 🔗 Code Link: [Day - 2 - program prerequisite in java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
@@ -44,7 +44,7 @@ BridgeLabz-Training/
 - User input and output
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
-🔗 Code Link: [Day - 3 - Programming Elements in Java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+- 🔗 Code Link: [Day - 3 - Programming Elements in Java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 
 ---
