@@ -115,7 +115,7 @@
 - Reusing properties and behaviors of an existing class.
 - Promoting code reusability and logical hierarchy.
 - Understanding the extends keyword.
-- 
+  
 - Explored different types of inheritance supported in Java:
   - Single Inheritance – One child class inherits from one parent class.
   - Multilevel Inheritance – A class derived from another derived class.
