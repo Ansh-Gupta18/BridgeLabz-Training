@@ -1,6 +1,6 @@
 package com.oopsScenarioBased.parkease;
 
-interface IPayable {
-    double calculateCharges(int hours);
+public interface IPayable {
+    double calculateCharges(int hoursParked);
 }
 
