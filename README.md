@@ -166,6 +166,6 @@
 
 - Efficient searching algorithm for sorted arrays.
 - Divides the search space in half repeatedly (O(log n) time complexity).
-🔗 Code Link: [day 4 This document covers essential Java classes for string handling, file reading, and basic searching algorithms](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
+- 🔗 Code Link: [day 4 This document covers essential Java classes for string handling, file reading, and basic searching algorithms](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
 
 --- 
