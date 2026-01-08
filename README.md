@@ -3,7 +3,7 @@
 ---
 
 ### 🗓 Day 1 – Git & GitHub Setup  
-**(Date: 16-Dec-2025)**
+
 
 - Installed and configured Git.
 - Set up GitHub repository.
@@ -28,19 +28,18 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
+
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
+- 🔗 Code Link: [Day 2 – Basic Java Programs](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
 ### 🗓 Day 3 – Programming Elements in Java  
-**(Date: 18-Dec-2025)**
+
 
 - Studied Java programming elements:
   - Variables and data types
@@ -49,13 +48,11 @@ BridgeLabz-Training/
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:**  
-👉 [Day 3 – Programming Elements]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+- 🔗 Code Link: [Day 3 – Programming Elements](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 19-Dec-2025)**
 
 - Studied logical constructs in Java:
   - if, if-else
@@ -71,14 +68,11 @@ BridgeLabz-Training/
   - Prime number check
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:**  
-👉 [Day 4 – Control Flow]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
+- 🔗 Code Link: [Day 4 – Control Flow](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
 ### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**(Date: 20-Dec-2025)**
-
 - Studied arrays in Java:
   - Single-dimensional arrays
   - Multi-dimensional arrays
@@ -89,13 +83,12 @@ BridgeLabz-Training/
 - Strengthened logical thinking using array problems.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:**  
-👉 [Day 5 – Arrays]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+- 🔗 Code Link: [Day 5 – Arrays](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
 ### 🗓 Day 6 – Strings & Methods  
-**(Date: 22-Dec-2025)**
+
 
 - Studied String concepts:
   - String creation
@@ -109,8 +102,7 @@ BridgeLabz-Training/
 - Practiced reusable logic using methods.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:**  
-👉 [Day 6 – Strings & Methods]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string
+- 🔗 Code Link: [Day 6 – Strings & Methods](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 
 ---
@@ -127,5 +119,4 @@ BridgeLabz-Training/
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
-🔗 **Code Link:**  
-👉 [Day 7 – Built-in Functions]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
+- 🔗 Code Link:[Day 7 – Built-in Functions](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
