@@ -2,17 +2,23 @@ package com.oopsScenarioBased.parkease;
 
 public class Main {
     public static void main(String[] args) {
+        ParkingSlot slot1 = new ParkingSlot(1, "Car");
+        ParkingSlot slot2 = new ParkingSlot(2, "Bike");
+        ParkingSlot slot3 = new ParkingSlot(3, "Truck");
 
-        ParkingSlot slot1 = new ParkingSlot("P101", "Zone-A", "Car");
-        Vehicle car = new Car("MP09-1234");
+        Vehicle car1 = new Car("CAR123");
+        Vehicle bike1 = new Bike("BIKE456");
+        Vehicle truck1 = new Truck("TRUCK789");
 
-        ParkingManager manager = new ParkingManager();
+        // Booking slots
+        slot1.bookSlot(car1);
+        slot2.bookSlot(bike1);
+        slot3.bookSlot(truck1);
 
-        manager.bookSlot(slot1, car, 6);
-        manager.showLogs();
-
-        slot1.releaseSlot();
-        System.out.println(slot1.getSlotInfo());
+        // Releasing slots after some hours
+        slot1.releaseSlot(6); // 6 hours
+        slot2.releaseSlot(2); // 2 hours
+        slot3.releaseSlot(5); // 5 hours
     }
 }
 
