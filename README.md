@@ -37,7 +37,7 @@ Practiced adding, committing, and pushing Java files to GitHub.
 ---
 
 ###  Week 1 Day 3 – Programming Elements in Java
-(Date: 18-Dec-2025)
+
 
 Studied Java programming elements:
 Variables and data types
@@ -45,9 +45,12 @@ Operators
 User input and output
 Solved practice problems based on programming elements.
 Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 [Day 3 – Programming Elements]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+👉 [Day 3 – Programming Elements]
+
 ---
+
+
 ### Week 1 Day 4 – Control Flow & Logical Constructs
 
 
@@ -65,6 +68,7 @@ Factorial
 Prime number check
 Committed and pushed solutions to the repository.
 🔗 Code Link:]https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
+
 ---
  ### Week 1Day 5 – Arrays & Basic Problem Solving
 
@@ -79,6 +83,8 @@ Basic array-based logic
 Strengthened logical thinking using array problems.
 Committed and pushed solutions to the repository.
 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+
+
 ---
 ### Week 1 Day 6 – Strings & Methods
 
@@ -110,6 +116,10 @@ Committed and pushed all changes successfully.
 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
 
 ---
+
+### 📅 Week 2: (OOPs) -> Object oriented programming 
+
+---
 ### Week 2 Day 1 – Introduction to Object-Oriented Programming
 
 Studied Procedural Programming and its limitations.
@@ -125,6 +135,7 @@ Class Object Encapsulation Abstraction Inheritance Polymorphism Implemented a sa
 Committed and pushed solutions to the repository.
 
 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/classandobject 👉 Week 2 Day 1 – Introduction to OOP
+
 ---
 ### Week 2 Day 2 – Constructors, Variables & Access Modifiers
 
@@ -137,6 +148,8 @@ Instance variables belong to individual objects. Static variables are shared acr
 Gained hands-on experience with access modifiers:
 
 public protected private Understood how access levels affect visibility across classes and subclasses. 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1 👉 Week 2 Day 2 – Constructor & Access Modifiers
+
+
 ---
 ###Week 2 Day 3 – Keywords & Scenario-Based Programming
 
@@ -168,6 +181,7 @@ Association – objects related but independent Aggregation – “has-a” rela
 Breaking real-world problems into: Classes Objects Responsibilities Mapping real-life scenarios into:
 
 Class diagrams (conceptual understanding) Logical method responsibilities 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/objectmodelling 👉 Week 2 Day 4 - Object Modeling and Scenario-Based Question
+
 ---
 
 ### Week 2 Day 5 – Inheritance & Types of Inheritance in Java
@@ -202,6 +216,7 @@ Used for abstraction by defining abstract and non-abstract methods. Enabled part
 Object-oriented design principles. Real-world modeling using OOP concepts. Clean and maintainable code structure. Pushed all implementations to the GitHub repository.
 
 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/encapsulation 👉 Week 2 Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism
+
 ---
  ### Week 2 Day 7 – Scenario-Based Programming using OOP Concepts
 
@@ -216,6 +231,12 @@ Bank Account System Encapsulated account details such as balance and account num
 Designing classes based on real-world entities. Writing reusable and extensible code. Clean separation of responsibilities using OOP principles. Improving logical thinking and problem-solving skills. Tested all scenarios thoroughly and pushed implementations to the GitHub repository.
 
 🔗 Code Link:https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oopsScenarioBased/src/com/oopsScenarioBased 👉 Week 2 Day 7 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)
+
+---
+
+### 📅 Week 1: Data Structure
+
+
 ---
 ### Week 3 Day 01 – Data Structures Overview & Linked Lists
 
@@ -226,6 +247,7 @@ Learned how data structures organize and store data efficiently. Explored their 
 Predefined and Custom Implementations: Used Java Collections Framework (Lists, Maps, Sets). Designed custom data structures using classes and objects. Dynamic Memory Allocation: Learned how structures like Lists and Maps grow and shrink dynamically. Generics Support: Ensured type safety and reduced runtime errors. Thread-Safe Options: Studied concurrent collections such as ConcurrentHashMap and CopyOnWriteArrayList. Studied Types of Data Structures in Java:
 
 Linear Data Structures: Array (fixed-size, contiguous memory). Linked List (dynamic node-based structure). Stack (LIFO). Queue (FIFO). Hierarchical Data Structures: Tree, Binary Tree, Binary Search Tree (BST). Heap for priority-based operations. Graph Data Structures: Directed and undirected graphs representing relationships. Hash-Based Data Structures: HashMap for 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linkedlist 👉 Week 3 Day 01 – Scenario-Based OOP Programs (Encapsulation & Polymorphism)
+
 ---
 ### Week 3 Day 02 – Stack, Queue & Hashing Fundamentals
 
@@ -240,6 +262,7 @@ Understood key-value pair storage using HashMap. Learned core methods: put, get,
 Understood hashCode() and its role in hash-based collections. Studied rules for overriding hashCode() and equals(). Implemented custom hashCode() for user-defined classes. Learned best practices to minimize collisions and ensure consistency. Focused on:
 
 Choosing the right data structure based on problem requirements. Understanding internal mechanics for interview readiness. Writing clean, efficient, and safe data-structure-based code. 🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/stackandqueue https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/hashmap 👉 Week 3 Day 02 – Stack, Queue & HashMap Implementations
+
 ---
 ### Week 3 Day 03 – Sorting Algorithms (Core & Advanced)
 
@@ -276,5 +299,5 @@ Simple but inefficient for large datasets (O(n) time complexity).
 6. Binary Search
 Efficient searching algorithm for sorted arrays.
 Divides the search space in half repeatedly (O(log n) time complexity).
-🔗 Code Link:
+🔗 Code Link: https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch
 👉 Java Basics & Searching Techniques
