@@ -1,11 +1,18 @@
 package com.oopsScenarioBased.parkease;
 
-abstract class Vehicle implements IPayable {
-    protected String vehicleNumber;
-    protected double baseRate;
+public abstract class Vehicle implements IPayable {
+    protected String licensePlate;
+    protected int baseRate; // base rate per hour
 
-    public Vehicle(String vehicleNumber, double baseRate) {
-        this.vehicleNumber = vehicleNumber;
+    public Vehicle(String licensePlate, int baseRate) {
+        this.licensePlate = licensePlate;
         this.baseRate = baseRate;
     }
+
+    public String getLicensePlate() {
+        return licensePlate;
+    }
+
+    public abstract double calculateCharges(int hoursParked);
 }
+
