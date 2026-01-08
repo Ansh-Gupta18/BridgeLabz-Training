@@ -99,7 +99,7 @@ BridgeLabz-Training/
   - Parameter passing
 - Practiced reusable logic using methods.
 - Committed and pushed solutions to the repository.
-- 🔗 Code Link:[ Day 6 – Strings & Methods] (https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+- 🔗 Code Link:[ Day 6 – Strings & Methods](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 
 ---
@@ -148,7 +148,7 @@ BridgeLabz-Training/
 
 - Gained hands-on experience with access modifiers:
   - public protected private Understood how access levels affect visibility across classes and subclasses.
-  - 
+   
 - 🔗 Code Link: [ Day 2 – Constructors, Variables & Access Modifiers](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1)
 
 
