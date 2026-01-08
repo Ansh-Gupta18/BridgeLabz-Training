@@ -1,38 +1,49 @@
 package com.oopsScenarioBased.parkease;
 
-class ParkingSlot {
-    private String slotId;
+public class ParkingSlot {
+    private int slotId;
     private boolean isOccupied;
     private String vehicleTypeAllowed;
-    private String location;
+    private Vehicle currentVehicle;
 
-    // Constructor for slot initialization
-    public ParkingSlot(String slotId, String location, String vehicleTypeAllowed) {
+    public ParkingSlot(int slotId, String vehicleTypeAllowed) {
         this.slotId = slotId;
-        this.location = location;
         this.vehicleTypeAllowed = vehicleTypeAllowed;
         this.isOccupied = false;
+        this.currentVehicle = null;
     }
 
-    public boolean isAvailable() {
-        return !isOccupied;
-    }
-
-    // Slot availability cannot be altered externally
-    public void assignSlot() {
-        if (!isOccupied) {
-            isOccupied = true;
+    public boolean bookSlot(Vehicle vehicle) {
+        if (!isOccupied && vehicle.getClass().getSimpleName().equalsIgnoreCase(vehicleTypeAllowed)) {
+            this.currentVehicle = vehicle;
+            this.isOccupied = true;
+            System.out.println("Slot " + slotId + " booked for " + vehicle.getLicensePlate());
+            return true;
+        } else {
+            System.out.println("Slot " + slotId + " not available for " + vehicle.getLicensePlate());
+            return false;
         }
     }
 
-    public void releaseSlot() {
-        isOccupied = false;
+    public double releaseSlot(int hoursParked) {
+        if (isOccupied && currentVehicle != null) {
+            double charges = currentVehicle.calculateCharges(hoursParked);
+            System.out.println("Vehicle " + currentVehicle.getLicensePlate() +
+                               " leaving slot " + slotId + ". Charges: " + charges);
+            currentVehicle = null;
+            isOccupied = false;
+            return charges;
+        }
+        return 0;
     }
 
-    public String getSlotInfo() {
-        return "Slot: " + slotId + " | Location: " + location +
-               " | Allowed: " + vehicleTypeAllowed +
-               " | Available: " + !isOccupied;
+    public boolean isOccupied() {
+        return isOccupied;
+    }
+
+    public String getVehicleTypeAllowed() {
+        return vehicleTypeAllowed;
     }
 }
+
 
