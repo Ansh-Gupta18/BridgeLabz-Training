@@ -3,7 +3,7 @@
 
 --- 
 
-### Week 2 Day 1 – Introduction to Object-Oriented Programming
+### Day 1 – Introduction to Object-Oriented Programming
 
 
 - Studied Procedural Programming and its limitations.
@@ -23,7 +23,7 @@
 - 🔗 Code Link:[Day 1 – Introduction to OOP](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
-###  Week 2 Day 2 – Constructors, Variables & Access Modifiers
+### Day 2 – Constructors, Variables & Access Modifiers
 
 
 - 📘 Topics Covered
@@ -47,7 +47,7 @@
 - 🔗 Code Link:[ Day 2 – Constructor & Access Modifiers](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1)
 
 ---
-###  Week 2 Day 3 – Keywords & Scenario-Based Programming
+###  Day 3 – Keywords & Scenario-Based Programming
 
 
 - 📘 Topics Covered
@@ -78,7 +78,7 @@
 - 🔗 Code Link:[Day 3 – Keywords & Scenario-Based Programs](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inbuiltfunction)
 
 ---
-### Week 2 Day 4 – Scenario-Based Design & Object Modeling
+###  Day 4 – Scenario-Based Design & Object Modeling
 
 
 - 📘 Topics Covered
@@ -106,7 +106,7 @@
 - 🔗 Code Link:[ Day 4 - Object Modeling and Scenario-Based Question](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
 ---
-### Week 2 Day 5 – Inheritance & Types of Inheritance in Java
+###  Day 5 – Inheritance & Types of Inheritance in Java
 
 
 - 📘 Topics Covered
@@ -145,7 +145,7 @@
 - 🔗 Code Link: [Day 5 – Inheritance & Types of Inheritance](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inheritance)
 
 ---
-### Week 2 Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism
+###  Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism
 
 
 - 📘 Topics Covered
@@ -174,7 +174,7 @@
 - 🔗 Code Link:[ Day 6 – Encapsulation, Interfaces, Abstract Classes & Polymorphism](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/encapsulation)
 
 ---
-### Week Day 7 – Scenario-Based Programming using OOP Concepts
+### Day 7 – Scenario-Based Programming using OOP Concepts
 
 
 - 📘 Topics Covered
