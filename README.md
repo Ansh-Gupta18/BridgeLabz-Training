@@ -169,3 +169,8 @@
 - 🔗 Code Link: [day 4 This document covers essential Java classes for string handling, file reading, and basic searching algorithms](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
 
 --- 
+
+### Week 3 day 5 scenario-based Java programming questions
+
+- 📅 (Date: 09-Jan-2026) Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+- 🔗 Code Link : [Day 5   scenario-based Java programming questions](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oopsScenarioBased/src/com/oopsScenarioBased)
