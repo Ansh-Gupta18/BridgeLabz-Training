@@ -352,7 +352,7 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 ---
 ### Week 3 day 5 scenario-based Java programming questions
-- 📅 (Date: 09-Jan-2026) Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+-  📘 Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
 - 🔗 Code Link : [Day 5 scenario-based Java programming questions](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oopsScenarioBased/src/com/oopsScenarioBased)
 
 
@@ -360,7 +360,7 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 
 ### Week 3 day 6 – Runtime Analysis & Big-O Notation and Scenario-Based Practice
-- 📅 (Date: 07-Jan-2026) Learned Runtime Analysis to evaluate algorithm efficiency Studied Big-O Notation to measure time and space complexity Analyzed common algorithms with best, average, and worst-case scenarios Practiced identifying complexity using real Java code examples Focused on writing optimized and scalable Java programs Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+-  📘 Learned Runtime Analysis to evaluate algorithm efficiency Studied Big-O Notation to measure time and space complexity Analyzed common algorithms with best, average, and worst-case scenarios Practiced identifying complexity using real Java code examples Focused on writing optimized and scalable Java programs Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
 -  🔗 Code Link :[Runtime Analysis & Big-O Notation and Scenario-Based Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
 
 ---
@@ -368,6 +368,6 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 ### Week 3 day 7 – DSA Scenario-Based Problem Solving
 
-- 📅 Date: Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying DSA concepts to real-world problem statements Strengthened logical thinking and approach selection for efficient solutions
+-  📘 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying DSA concepts to real-world problem statements Strengthened logical thinking and approach selection for efficient solutions
 
 - 🔗 Code Link:[DSA Scenario-Based Problem Solving](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsaScenarioBased/src/com)
