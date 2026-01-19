@@ -371,3 +371,9 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 -  📘 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying DSA concepts to real-world problem statements Strengthened logical thinking and approach selection for efficient solutions
 
 - 🔗 Code Link:[DSA Scenario-Based Problem Solving](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsaScenarioBased/src/com)
+
+---
+
+### Week 4 Day 1 – Java Generics (Type Parameters, Bounds & Wildcards)
+- Learned Java Generics to write type-safe, reusable, and flexible code Understood how generics help eliminate runtime type errors Implemented generic classes, generic methods, bounded types, and wildcards Designed a real-world Flight Scheduling System using generics Strengthened understanding of compile-time type safety
+🔗 Code Link: [day-1 java generics](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsaScenarioBased/src/com)
