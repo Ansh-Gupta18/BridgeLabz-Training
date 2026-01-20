@@ -2,6 +2,7 @@ package com.collections.list;
 
 import java.util.*;
 
+//Frequency of elements
 public class FrequencyOfElements {
     public static void main(String[] args) {
 
