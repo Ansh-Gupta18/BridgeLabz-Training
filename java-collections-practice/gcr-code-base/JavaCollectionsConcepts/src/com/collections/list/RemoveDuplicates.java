@@ -2,6 +2,8 @@ package com.collections.list;
 
 import java.util.*;
 
+
+//Remove duplicates 
 public class RemoveDuplicates {
     public static void main(String[] args) {
 
