@@ -2,6 +2,7 @@ package com.collections.list;
 
 import java.util.*;
 
+//Rotate list
 public class RotateList {
     public static void main(String[] args) {
 
