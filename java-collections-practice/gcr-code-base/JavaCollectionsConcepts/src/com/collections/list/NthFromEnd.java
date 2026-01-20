@@ -2,6 +2,7 @@ package com.collections.list;
 
 import java.util.LinkedList;
 
+//Nth from end
 public class NthFromEnd {
     public static void main(String[] args) {
 
