@@ -380,7 +380,7 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 ---
 
-### Week 4 Day 2 – DSA Scenario-Based Practice
-- 📘 (Date: 20-Jan-2026) Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+### Week 4 Day 2– Java Collection Framework Overview
+- 📘 Studied the Java Collection Framework architecture and hierarchy Understood core interfaces, classes, and their relationships Practiced usage of List, Set, Queue, Deque, and Map implementations Compared performance, ordering, and use cases of different collections Strengthened understanding of real-world use cases and best practices
 
-- 🔗 Code Link:[Day-2-DSA Scenario-Based Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/collections)
+🔗 Code Link: [Day-2-Java Collection Framework Overview](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/collections)
