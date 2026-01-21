@@ -10,6 +10,6 @@
 ---
 
 ### Day 2– Java Collection Framework Overview
--  (Date: 16-Jan-2026) Studied the Java Collection Framework architecture and hierarchy Understood core interfaces, classes, and their relationships Practiced usage of List, Set, Queue, Deque, and Map implementations Compared performance, ordering, and use cases of different collections Strengthened understanding of real-world use cases and best practices
+-  Studied the Java Collection Framework architecture and hierarchy Understood core interfaces, classes, and their relationships Practiced usage of List, Set, Queue, Deque, and Map implementations Compared performance, ordering, and use cases of different collections Strengthened understanding of real-world use cases and best practices
 
 - 🔗 Code Link: [Day-2-Java Collection Framework Overview](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/collections)
