@@ -135,7 +135,7 @@ BridgeLabz-Training/
 
 - Committed and pushed solutions to the repository.
 
-- 🔗 Code Link: [Day 1 – Introduction to Object-Oriented Programming](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/classandobject) 
+- 🔗 Code Link: [Day - 1 – Introduction to Object-Oriented Programming](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/classandobject) 
 
 ---
 ### Week 2 Day 2 – Constructors, Variables & Access Modifiers
@@ -149,7 +149,7 @@ BridgeLabz-Training/
 - Gained hands-on experience with access modifiers:
   - public protected private Understood how access levels affect visibility across classes and subclasses.
    
-- 🔗 Code Link: [ Day 2 – Constructors, Variables & Access Modifiers](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1)
+- 🔗 Code Link: [ Day - 2 – Constructors, Variables & Access Modifiers](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/constructorandinstance/level1)
 
 
 ---
@@ -165,7 +165,7 @@ BridgeLabz-Training/
 
 - Logical flow building Conditional statements (if-else, switch) Looping constructs Clean and readable code structure Improved debugging skills and code readability.
 
-- 🔗 Code Link:[Day 3 – Keywords & Scenario-Based Programming](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inbuiltfunction)
+- 🔗 Code Link:[Day - 3 – Keywords & Scenario-Based Programming](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/inbuiltfunction)
 
 ---
 ### Week 2 Day 4 – Scenario-Based Design & Object Modeling
@@ -183,7 +183,7 @@ BridgeLabz-Training/
 - Breaking real-world problems into: Classes Objects Responsibilities Mapping real-life scenarios into:
 
 - Class diagrams (conceptual understanding) Logical method responsibilities.
--  🔗 Code Link:[Day 4 – Scenario-Based Design & Object Modeling](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/objectmodelling)
+-  🔗 Code Link:[Day - 4 – Scenario-Based Design & Object Modeling](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/grc-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
 ---
 
@@ -361,7 +361,7 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 ### Week 3 day 6 – Runtime Analysis & Big-O Notation and Scenario-Based Practice
 -  📘 Learned Runtime Analysis to evaluate algorithm efficiency Studied Big-O Notation to measure time and space complexity Analyzed common algorithms with best, average, and worst-case scenarios Practiced identifying complexity using real Java code examples Focused on writing optimized and scalable Java programs Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
--  🔗 Code Link :[Runtime Analysis & Big-O Notation and Scenario-Based Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
+-  🔗 Code Link :[Day-6-Runtime Analysis & Big-O Notation and Scenario-Based Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
 
 ---
 
@@ -370,10 +370,17 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 -  📘 Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying DSA concepts to real-world problem statements Strengthened logical thinking and approach selection for efficient solutions
 
-- 🔗 Code Link:[DSA Scenario-Based Problem Solving](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsaScenarioBased/src/com)
+- 🔗 Code Link:[Day-7-DSA Scenario-Based Problem Solving](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsaScenarioBased/src/com)
 
 ---
 
 ### Week 4 Day 1 – Java Generics (Type Parameters, Bounds & Wildcards)
 - Learned Java Generics to write type-safe, reusable, and flexible code Understood how generics help eliminate runtime type errors Implemented generic classes, generic methods, bounded types, and wildcards Designed a real-world Flight Scheduling System using generics Strengthened understanding of compile-time type safety
-🔗 Code Link: [day-1 java generics](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsaScenarioBased/src/com)
+🔗 Code Link: [day-1-java generics](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsaScenarioBased/src/com)
+
+---
+
+### Week 4 Day 2 – DSA Scenario-Based Practice
+- 📘 (Date: 20-Jan-2026) Solved 3 Data Structures & Algorithms (DSA) scenario-based questions Focused on applying sorting data structures to real-world problems Strengthened understanding of data structure selection and efficient problem-solving
+
+- 🔗 Code Link:[Day-2-DSA Scenario-Based Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/collections)
