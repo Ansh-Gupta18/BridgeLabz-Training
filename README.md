@@ -31,3 +31,11 @@
 - Learned Java Exception Handling to manage runtime and compile-time errors Studied the complete exception hierarchy Practiced handling checked, unchecked, and custom exceptions Implemented try-catch, finally, throw, throws, nested try blocks Used try-with-resources for efficient resource management
 
 - 🔗 Code Link: [day - 4 - Exception Handling in Java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptionhandling)
+
+---
+
+### Day 5 – Java Regular Expressions (Regex) & JUnit Testing
+-  Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text Worked with Pattern and Matcher classes from java.util.regex Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags) Understood metacharacters, quantifiers, and regex methods Learned JUnit framework for unit testing in Java
+
+- 🔗 Code Link: [Day - 5 - Java Regular Expressions (Regex) ](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regex)
+- 🔗 Code Link: [Day -6 - JUnit Testing](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/junit)
