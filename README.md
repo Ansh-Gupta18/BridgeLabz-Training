@@ -304,6 +304,7 @@ BridgeLabz-Training/
 - Choosing the right data structure based on problem requirements.
 - Understanding internal mechanics for interview readiness.
 -  Writing clean, efficient, and safe data-structure-based code.
+-  
 -  🔗 Code Link: [Day 02 – Stack, Queue ](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/stackandqueue)
 - 🔗 Code Link:[Day 02 –  Hashing Fundamentals](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/hashmap)
 
@@ -323,9 +324,11 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 - Concept: Partition-based sorting using a pivot element.
 -  Time Complexity: Best/Average: O(n log n) Worst: O(n²) (poor pivot selection) Space Complexity: O(log n) Stable: No Use Case: High-performance systems, large datasets with randomized pivot.
+-  
 -  🔗 Code Link:[Day 03 – Sorting Algorithms (Core & Advanced)](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/sorting) 
 
 ### Week 3 day 4 This document covers essential Java classes for string handling, file reading, and basic searching algorithms. 
+
 - These are fundamental for efficient Java programming and data processing.
 
 - Topics Covered
@@ -348,11 +351,14 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 - Binary Search
   - Efficient searching algorithm for sorted arrays.
   - Divides the search space in half repeatedly (O(log n) time complexity).
+  - 
 - 🔗 Code Link: [day 4 This document covers essential Java classes for string handling, file reading, and basic searching algorithms. ](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/linearandbinarysearch)
 
 ---
 ### Week 3 day 5 scenario-based Java programming questions
+
 -  📘 Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+  
 - 🔗 Code Link : [Day 5 scenario-based Java programming questions](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oopsScenarioBased/src/com/oopsScenarioBased)
 
 
@@ -360,7 +366,9 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 
 
 ### Week 3 day 6 – Runtime Analysis & Big-O Notation and Scenario-Based Practice
+
 -  📘 Learned Runtime Analysis to evaluate algorithm efficiency Studied Big-O Notation to measure time and space complexity Analyzed common algorithms with best, average, and worst-case scenarios Practiced identifying complexity using real Java code examples Focused on writing optimized and scalable Java programs Solved 3 scenario-based Java programming questions Focused on applying Object-Oriented Programming (OOP) concepts to real-world problems Strengthened logical thinking and problem decomposition skills
+-  
 -  🔗 Code Link :[Day-6-Runtime Analysis & Big-O Notation and Scenario-Based Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaConcepts/src/com/algorithmanalysis)
 
 ---
@@ -375,12 +383,14 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 ---
 
 ### Week 4 Day 1 – Java Generics (Type Parameters, Bounds & Wildcards)
+
 -  📘 Learned Java Generics to write type-safe, reusable, and flexible code Understood how generics help eliminate runtime type errors Implemented generic classes, generic methods, bounded types, and wildcards Designed a real-world Flight Scheduling System using generics Strengthened understanding of compile-time type safety
 🔗 Code Link: [day-1-java generics](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsaScenarioBased/src/com)
 
 ---
 
 ### Week 4 Day 2– Java Collection Framework Overview
+
 - 📘 Studied the Java Collection Framework architecture and hierarchy Understood core interfaces, classes, and their relationships Practiced usage of List, Set, Queue, Deque, and Map implementations Compared performance, ordering, and use cases of different collections Strengthened understanding of real-world use cases and best practices
 
 - 🔗 Code Link: [Day-2-Java Collection Framework Overview](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/collections)
@@ -388,9 +398,11 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 ---
 
 ### Week 4 Day 3- Java I/O Streams
+
 -  📘 Learned the fundamentals of Java I/O (Input/Output) Streams Understood how Java handles data reading and writing using streams Studied byte streams, character streams, object streams, and buffered streams Implemented file handling, serialization, and in-memory data processing Focused on performance, encoding, and best practices
 
 - 🔗 Code Link : [day-3- Java I/O Streams](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/streams)
+- 
 ---
 
 ### Week 4 Day 4 – Exception Handling in Java
@@ -401,8 +413,17 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 ---
 
 ### Week 4 Day 5 – Java Regular Expressions (Regex) & JUnit Testing
-Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text Worked with Pattern and Matcher classes from java.util.regex Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags) Understood metacharacters, quantifiers, and regex methods Learned JUnit framework for unit testing in Java
 
-🔗 Code Link: [Day - 5 - Java Regular Expressions (Regex)](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regex)
+- Learned Java Regular Expressions (Regex) for validation, searching, extracting, and replacing text Worked with Pattern and Matcher classes from java.util.regex Practiced real-world regex use cases (Email, Password, Phone, Dates, URLs, Hashtags) Understood metacharacters, quantifiers, and regex methods Learned JUnit framework for unit testing in Java
 
-🔗 Code Link: [Day -6 - JUnit Testing](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/junit)
+- 🔗 Code Link: [Day - 5 - Java Regular Expressions (Regex)](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/regex)
+- 🔗 Code Link: [Day -6 - JUnit Testing](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/junit)
+
+---
+
+### Week 4 Day 6 – Reflection & Annotations in Java
+
+-  📘 Learned Java Reflection to inspect and manipulate classes, methods, fields, and constructors at runtime. Accessed and modified private fields and methods using the Reflection API. Created objects dynamically and invoked methods without using the new keyword. Explored dynamic proxies and runtime method interception used in frameworks like Spring. Studied built-in and meta-annotations such as @Override, @Retention, and @Target. Created and processed custom annotations for logging, validation, and framework integration.
+
+- 🔗 Code Link: [Day - 6 - Reflection](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/reflection)
+- 🔗 Code Link: [Day - 7- Annotations](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/annotations)
