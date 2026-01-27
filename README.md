@@ -383,7 +383,7 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 ### Week 4 Day 2– Java Collection Framework Overview
 - 📘 Studied the Java Collection Framework architecture and hierarchy Understood core interfaces, classes, and their relationships Practiced usage of List, Set, Queue, Deque, and Map implementations Compared performance, ordering, and use cases of different collections Strengthened understanding of real-world use cases and best practices
 
-🔗 Code Link: [Day-2-Java Collection Framework Overview](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/collections)
+- 🔗 Code Link: [Day-2-Java Collection Framework Overview](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/collections)
 
 ---
 
@@ -391,3 +391,9 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 -  📘 Learned the fundamentals of Java I/O (Input/Output) Streams Understood how Java handles data reading and writing using streams Studied byte streams, character streams, object streams, and buffered streams Implemented file handling, serialization, and in-memory data processing Focused on performance, encoding, and best practices
 
 - 🔗 Code Link : [day-3- Java I/O Streams](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/streams)
+---
+
+### Week 4 Day 4 – Exception Handling in Java
+-  📘 Learned Java Exception Handling to manage runtime and compile-time errors Studied the complete exception hierarchy Practiced handling checked, unchecked, and custom exceptions Implemented try-catch, finally, throw, throws, nested try blocks Used try-with-resources for efficient resource management
+
+- 🔗 Code Link: [Day - 4 - Exception Handling in Java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/exceptionhandling)
