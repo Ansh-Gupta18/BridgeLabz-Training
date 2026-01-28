@@ -1,0 +1,4 @@
+ID,Name,Email,Salary
+1,Ansh,ansh@gmail.com,75000
+2,Rohit,rohit@gmail.com,68000
+3,Neha,neha@gmail.com,82000
