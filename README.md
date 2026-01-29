@@ -50,3 +50,12 @@
 
 - 🔗 Code Link: [Day - 6 - Reflection](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/reflection)
 - 🔗 Code Link: [Day - 6 - Annotations](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/annotations)
+
+
+
+---
+
+### Day 7 - Real-World Java Scenario-Based Problems (Collections, Generics, I/O & Regex)
+- Solved 10 real-world, scenario-based Java problems Integrated Collections Framework, Generics, I/O Streams, and Regular Expressions Designed solutions close to enterprise-level applications Focused on file processing, data validation, parsing, indexing, and summarization.
+
+- 🔗 Code Link: [Day - 7 - Collections Scenario-Based Problem](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/collectionsScenarioBased/src/com)
