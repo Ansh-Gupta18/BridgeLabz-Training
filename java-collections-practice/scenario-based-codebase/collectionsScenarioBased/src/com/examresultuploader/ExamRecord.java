@@ -1,0 +1,32 @@
+package com.examresultuploader;
+
+//Generic exam record class
+public class ExamRecord<T> {
+
+ private int rollNo;
+ private String name;
+ private String subject;
+ private int marks;
+ private T examType; // Mid-term, Final, Internal
+
+ public ExamRecord(int rollNo, String name,
+                   String subject, int marks, T examType) {
+     this.rollNo = rollNo;
+     this.name = name;
+     this.subject = subject;
+     this.marks = marks;
+     this.examType = examType;
+ }
+
+ public String getSubject() {
+     return subject;
+ }
+
+ public int getMarks() {
+     return marks;
+ }
+
+ public String getName() {
+     return name;
+ }
+}
