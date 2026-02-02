@@ -402,7 +402,7 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 -  📘 Learned the fundamentals of Java I/O (Input/Output) Streams Understood how Java handles data reading and writing using streams Studied byte streams, character streams, object streams, and buffered streams Implemented file handling, serialization, and in-memory data processing Focused on performance, encoding, and best practices
 
 - 🔗 Code Link : [day-3- Java I/O Streams](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollectionsConcepts/src/com/streams)
-- 
+
 ---
 
 ### Week 4 Day 4 – Exception Handling in Java
@@ -442,7 +442,8 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 ---
 
 ### Week 4 Day 7 – CSV & JSON Data Handling in Java
-Worked on reading, writing, parsing, and validating structured data formats commonly used in real-world applications. Practiced end-to-end data handling using both core Java and popular libraries.
+
+- 📘 Worked on reading, writing, parsing, and validating structured data formats commonly used in real-world applications. Practiced end-to-end data handling using both core Java and popular libraries.
 
 Covered key concepts including:
 
@@ -461,3 +462,12 @@ Creating, reading, writing, and parsing JSON using org.json, Gson, and Jackson
 Dynamic JSON parsing with JsonNode and JSON schema validation
 
 - 🔗 Code Link: [Day - 33 CSV Handling Practice JSON Handling Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base)
+
+---
+
+### Week 4 Day 7 – JSON Data Handling in Java
+
+- 📘 Worked on reading, writing, parsing, and validating structured data formats commonly used in real-world applications. Practiced end-to-end data handling using both core Java and popular libraries. Covered key concepts including:
+- Understanding JSON structure (objects, arrays, nested data) Creating, reading, writing, and parsing JSON using org.json, Gson, and Jackson Dynamic JSON parsing with JsonNode and JSON schema validation
+
+- 🔗 Code Link: [day -28- JSON Handling Practice](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIoStreamConcepts/src/main)
