@@ -38,3 +38,22 @@ Performance considerations and best practices
 Also practiced forEach() with lambdas and method references.
 
 🔗 Code Link:[day -2 - Java Stream API & Parallel Streams](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/streamAPI)
+
+
+---
+
+### Week 5 day 3 – Collectors in Java Stream API
+
+Explored the role and capabilities of Collectors used with the Stream.collect() method for data aggregation and transformation.
+
+
+Covered:
+
+Converting streams to collections using toList(), toSet(), toMap()
+Transforming and aggregating stream data
+Grouping elements using groupingBy()
+Partitioning data using partitioningBy()
+Joining stream elements into strings with joining()
+Generating statistics using summarizingInt()
+
+🔗 Code Link: [ day - 3 – Collectors in Java Stream API](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/collectors)
