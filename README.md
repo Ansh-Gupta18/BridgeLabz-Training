@@ -57,3 +57,21 @@ Joining stream elements into strings with joining()
 Generating statistics using summarizingInt()
 
 🔗 Code Link: [ day - 3 – Collectors in Java Stream API](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/collectors)
+
+
+---
+
+### Week 5 Day 4 – Functional Interfaces in Java
+
+-  Topics Covered
+Concept and importance of Functional Interfaces
+@FunctionalInterface annotation and compile-time safety
+Built-in interfaces from java.util.function
+Creating custom functional interfaces
+Lambda expressions vs anonymous classes
+Functional interface composition (andThen, compose, and, or, negate)
+Method references for cleaner implementations
+Integrating functional interfaces with Streams API
+
+
+🔗 CodeLink: [Day 02 – Functional Interfaces](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/functionalinterface)
