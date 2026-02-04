@@ -74,4 +74,4 @@ Method references for cleaner implementations
 Integrating functional interfaces with Streams API
 
 
-🔗 CodeLink: [Day 02 – Functional Interfaces](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/functionalinterface)
+🔗 CodeLink: [Day 4 – Functional Interfaces](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/functionalinterface)
