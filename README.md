@@ -478,6 +478,9 @@ Dynamic JSON parsing with JsonNode and JSON schema validation
 
 ### Week 📅 5 : Java 8 features
 
+---
+
+
 ### Week 5 Day 1 – Lambda Expressions & Method References in Java
 - 📘 Focused on understanding functional-style programming in Java using lambda expressions and method references. Practiced writing concise, readable code by replacing anonymous classes with lambdas and explored how Java infers types using target typing.
 Covered key concepts including:
@@ -523,3 +526,27 @@ Converting streams to collections using toList(), toSet(), toMap() Transforming 
 - 📘 Topics Covered Concept and importance of Functional Interfaces @FunctionalInterface annotation and compile-time safety Built-in interfaces from java.util.function Creating custom functional interfaces Lambda expressions vs anonymous classes Functional interface composition (andThen, compose, and, or, negate) Method references for cleaner implementations Integrating functional interfaces with Streams API
 
 🔗 CodeLink: [Day 4 – Functional Interfaces](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/functionalinterface)
+
+---
+
+### Week 5 Day 5 – Java 8 Scenario Based Programs
+- Practiced and solved real-world scenario questions utilizing Java 8 features like Streams and Lambda Expressions.
+Added Java 8 scenario-based coding solutions
+
+Implemented Lambda Expressions in real-time scenarios
+
+Used Stream API for data processing
+
+Applied Functional Interfaces concepts
+
+Demonstrated Method References usage
+
+Implemented Optional class examples
+
+Added Date & Time API scenarios
+
+Used forEach and Parallel Streams
+
+Improved code readability using Java 8 features
+
+- 🔗 CodeLink: [Day 5 – Java 8 Scenario Based Programs](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/scenario-based-codebase/java8ScenarioBased/src/malesandfemalecount)
