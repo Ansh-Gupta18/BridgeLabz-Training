@@ -550,3 +550,23 @@ Used forEach and Parallel Streams
 Improved code readability using Java 8 features
 
 - 🔗 CodeLink: [Day 5 – Java 8 Scenario Based Programs](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/scenario-based-codebase/java8ScenarioBased/src/malesandfemalecount)
+
+
+---
+
+### Week 5 Day 5 - Smart City Transport & Service Management System Using Java 8 Features
+
+- Developed Smart City Transport & Service Management System using Java 8.
+Key Features Implemented:
+
+- Used Lambda Expressions for transport service operations
+- Applied Stream API for filtering, sorting, and data processing
+- Implemented Functional Interfaces for service behaviors
+- Used Method References to simplify code readability
+- Integrated Optional class to handle null values
+- Implemented Date & Time API for scheduling services
+- Added Collection Framework for vehicle and route management
+- Created modular and scalable service management structure
+- Improved performance using Parallel Streams
+
+🔗 CodeLink: [Day 5 - Smart City Transport & Service Management System Using Java 8 Features](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/workshop)
