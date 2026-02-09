@@ -14,7 +14,7 @@ Covered key concepts including:
 - Difference between lambda expressions and anonymous inner classes
 - Using lambdas with Streams, Predicate, Comparator, and Runnable
   
-🔗 Code Link: [Day - 1 - Lambda Expressions & Method References in Java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/lambdaexpression)
+- 🔗 Code Link: [Day - 1 - Lambda Expressions & Method References in Java](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/lambdaexpression)
 
 ---
 
@@ -37,7 +37,7 @@ Performance considerations and best practices
 
 Also practiced forEach() with lambdas and method references.
 
-🔗 Code Link:[day -2 - Java Stream API & Parallel Streams](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/streamAPI)
+- 🔗 Code Link:[day -2 - Java Stream API & Parallel Streams](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/streamAPI)
 
 
 ---
@@ -56,7 +56,7 @@ Partitioning data using partitioningBy()
 Joining stream elements into strings with joining()
 Generating statistics using summarizingInt()
 
-🔗 Code Link: [ day - 3 – Collectors in Java Stream API](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/collectors)
+- 🔗 Code Link: [ day - 3 – Collectors in Java Stream API](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/collectors)
 
 
 ---
@@ -74,4 +74,49 @@ Method references for cleaner implementations
 Integrating functional interfaces with Streams API
 
 
-🔗 CodeLink: [Day 4 – Functional Interfaces](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/functionalinterface)
+- 🔗 CodeLink: [Day 4 – Functional Interfaces](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/functionalinterface)
+
+---
+
+### Week 5 Day 5 – Java 8 Scenario Based Programs
+
+- Practiced and solved real-world scenario questions utilizing Java 8 features like Streams and Lambda Expressions.
+ 
+Added Java 8 scenario-based coding solutions
+
+Implemented Lambda Expressions in real-time scenarios
+
+Used Stream API for data processing
+
+Applied Functional Interfaces concepts
+
+Demonstrated Method References usage
+
+Implemented Optional class examples
+
+Added Date & Time API scenarios
+
+Used forEach and Parallel Streams
+
+Improved code readability using Java 8 features
+
+- 🔗 CodeLink: [ Day 5 – Java 8 Scenario Based Programs](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/scenario-based-codebase/java8ScenarioBased/src/malesandfemalecount)
+
+---
+
+### Week 5 Day 5 - Smart City Transport & Service Management System Using Java 8 Features
+
+- Developed Smart City Transport & Service Management System using Java 8.
+
+Key Features Implemented:
+- Used Lambda Expressions for transport service operations
+- Applied Stream API for filtering, sorting, and data processing
+- Implemented Functional Interfaces for service behaviors
+- Used Method References to simplify code readability
+- Integrated Optional class to handle null values
+- Implemented Date & Time API for scheduling services
+- Added Collection Framework for vehicle and route management
+- Created modular and scalable service management structure
+- Improved performance using Parallel Streams
+
+- 🔗 CodeLink:[Day 5 - Smart City Transport & Service Management System Using Java 8 Features](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-code-base/java8concepts/src/com/workshop)
