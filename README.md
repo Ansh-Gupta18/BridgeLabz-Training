@@ -25,7 +25,7 @@ Outcome:
 
 ---
 
-### Day 2 – JDBC Architecture and Database Connectivity
+### Week 6 Day 2 – JDBC Architecture and Database Connectivity
 
 
 Learned Java Database Connectivity (JDBC) for interacting with relational databases and performing persistent data operations.
