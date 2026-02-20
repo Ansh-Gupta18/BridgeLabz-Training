@@ -383,6 +383,8 @@ Time Complexity: O(n log n) in all cases. Space Complexity: O(n) Stable: Yes Use
 ---
 ### Week 📅 4 :  Java Collection Framework
 
+---
+
 ### Week 4 Day 1 – Java Generics (Type Parameters, Bounds & Wildcards)
 
 -  📘 Learned Java Generics to write type-safe, reusable, and flexible code Understood how generics help eliminate runtime type errors Implemented generic classes, generic methods, bounded types, and wildcards Designed a real-world Flight Scheduling System using generics Strengthened understanding of compile-time type safety
@@ -597,7 +599,7 @@ Outcome:
 
 ---
 
-Week 5 day 7 – Java Multithreading Fundamentals
+### Week 5 day 7 – Java Multithreading Fundamentals
 - 📘 Studied core concepts of Java Multithreading and thread management.
 
 Covered:
@@ -614,3 +616,28 @@ Outcome:
 - Ability to create, control, and manage threads safely in Java
 
 🔗 Code Link: day 7 – [Java Multithreading Fundamentals](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-code-base/javaDesignPatternConcepts/src/multithreading)
+
+---
+
+### Week 📅  6  - MySQL and JDBC
+
+---
+
+### Week 6 day 1 – MySQL Indexing and Query Optimization
+
+Learned MySQL Indexing concepts to improve database query performance and efficiency.
+
+Covered:
+
+- Purpose of indexing and its impact on SELECT, JOIN, and ORDER BY performance
+- Types of indexes: Primary Key, Unique, Regular, Composite, Full-Text, and Covering Index
+- How B-Tree indexes work and difference between Index Scan vs Table Scan
+- Creating, viewing, renaming, and dropping indexes using CREATE INDEX and ALTER TABLE
+- Query performance analysis using EXPLAIN and composite index optimization -Index best - -- practices, leftmost prefix rule, and avoiding misuse (functions, over-indexing)
+Outcome:
+
+- Ability to design efficient database indexes
+- Improved understanding of query optimization and performance tuning
+- 🔗 Code Link: [Day - 1 MySql](https://github.com/Ansh-Gupta18/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/grc-codebase/mysqlConcetps/src/mysqlConcetps/com/basic)
+
+
